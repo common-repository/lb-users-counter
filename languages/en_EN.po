@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugin LB Users Counter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-25 11:46+0100\n"
+"PO-Revision-Date: 2013-05-25 11:50+0100\n"
+"Last-Translator: Luca\n"
+"Language-Team: Luca Bonaldo <info@lucabonaldo.it>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../lb-users-counter.php:188
+msgid "Titilo:&nbsp;"
+msgstr "Title:&nbsp;"
+
+#: ../lb-users-counter.php:194
+msgid "Utenti Offline"
+msgstr "Users Offline"
+
+#: ../lb-users-counter.php:200
+msgid "Utenti Online"
+msgstr "Users Online"
+
+#: ../lb-users-counter.php:206
+msgid "Totale Utenti"
+msgstr "Total Users"
+
+#: ../lb-users-counter.php:212
+msgid "Visualizza nome utenti online"
+msgstr "View name of users online"
+
+#: ../lb-users-counter.php:223
+msgid "Visualizza: "
+msgstr "View:"
+
+#: ../lb-users-counter.php:225
+msgid "Solo utenti loggati"
+msgstr "Only  users online"
+
+#: ../lb-users-counter.php:226
+msgid "Tutti gli utenti"
+msgstr "All users"
+
+#: ../lb-users-counter.php:252
+msgid "Utenti Offline:"
+msgstr "Users Offline:"
+
+#: ../lb-users-counter.php:255
+msgid "Utenti Online:"
+msgstr "Users Online:"
+
+#: ../lb-users-counter.php:258
+msgid "Totale Utenti:"
+msgstr "Total Users"
+
+#: ../lb-users-counter.php:262
+#: ../lb-users-counter.php:266
+msgid "Nomi Utenti Online:"
+msgstr "Name of users online:"
+
